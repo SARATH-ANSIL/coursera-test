@@ -1,4 +1,4 @@
-## Welcome to ocalo
+Welcome to ocalo
 
 You can use the [editor on GitHub](https://github.com/SARATH-ANSIL/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
